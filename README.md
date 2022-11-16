@@ -1,4 +1,15 @@
+## Hello everyone! 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+programmer;I'm+pentester;I'm+Diorten" alt="Typing SVG" /></a>
+
+### I'm currently working on two projects:
+- ♟ a chess game from scap, you can find it out there [chessC++](https://github.com/Diorten/chess)
+- 👑 a chess.com API for C++, main repo is here [chessAPI](https://github.com/Diorten/chessAPI)
+
+
+### Little bit about me:
+- 🏫 Student of Cybersec at Wroclaw University of Science
+- 💻 Amateur pentester and C++ programmer
+- 🎮 In free time playing or watching movies
 
 
 <h3 align="left">Connect with me:</h3>
