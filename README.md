@@ -1,7 +1,7 @@
 ## Hello everyone! 👋
 ### I'm currently working on two projects:
 - ♟ a chess game from scap, you can find it out there [chessC++](https://github.com/Diorten/chess)
-- 👑 a chess.com API for C++, main repo is here [chessAPI](https://github.com/Diorten/chessAPI)
+- <strike>👑 a chess.com API for C++, main repo is here [chessAPI](https://github.com/Diorten/chessAPI)</strike>
 
 
 ### Little bit about me:
