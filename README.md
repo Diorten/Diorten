@@ -1,9 +1,4 @@
 ## Hello everyone! 👋
-### I'm currently working on two projects:
-- ♟ a chess game from scap, you can find it out there [chessC++](https://github.com/Diorten/chess)
-- <strike>👑 a chess.com API for C++, main repo is here [chessAPI](https://github.com/Diorten/chessAPI)</strike>
-- ✔ Testownik+, a tool that will help students to lear by competition
-
 
 ### Little bit about me:
 - 🏫 Student of Cybersec at Wroclaw University of Science
