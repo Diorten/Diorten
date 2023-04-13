@@ -2,7 +2,7 @@
 
 ### Little bit about me:
 - 🏫 Student of Cybersec at Wroclaw University of Science
-- 💻 Amateur pentester and C++ programmer
+- 💻 Amateur pentester and <s>C++ programmer</s>
 - 🎮 In free time playing or watching movies
 
 
